@@ -12,3 +12,4 @@ datasets/authors.txt
 datasets/edgelist.txt
 datasets/submission_random.csv
 datasets/test.txt
+tf-examples.ipynb
