@@ -1,6 +1,6 @@
 # Link Prediction model
 
-Machine learning model used for link prediction. Goal of the project is to predict links between authors to check if a paper cites another paper or not.
+Machine learning model used for link prediction. Goal of the project is to predict links between authors to check if a paper cites another paper or not. Project was carried out in the form of a Machine Learning competition on Kaggle.
 
 ## Description
 
